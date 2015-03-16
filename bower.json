@@ -1,0 +1,19 @@
+{
+  "name": "openlayers",
+  "version": "0.0.0",
+  "homepage": "http://openlayers.org/",
+  "authors": [
+    "tschaub <tim.schaub@gmail.com",
+    "elemoine <eric.lemoine@gmail.com>",
+    "fredj <frederic.junod@gmail.com>",
+    "ahocevar <andreas.hocevar@gmail.com>"
+  ],
+  "description": "A high-performance, feature-packed library for all your mapping needs",
+  "main": "ol.js",
+  "keywords": [
+    "map",
+    "mapping",
+    "ol3"
+  ],
+  "license": "BSD"
+}
